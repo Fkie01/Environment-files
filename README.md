@@ -1,5 +1,6 @@
 # My personal configuration 
 This is my personal configuration for my daily tools
+<br>
 
 **Code Editor**
 💻 VS code is my primary code editor 
